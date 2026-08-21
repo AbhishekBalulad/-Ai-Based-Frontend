@@ -1,0 +1,7 @@
+{
+  "name": "aiGovPolicyMobile",
+  "displayName": "AI Policy & Job Assistance",
+  "android": {
+    "package": "com.anonymous.aigovpolicymobile"
+  }
+}
